@@ -1,0 +1,26 @@
+{
+  "name": "crmgraphql",
+  "version": "1.0.0",
+  "description": "curso de graphql",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "cristianmorenof23"
+  },
+  "author": "cristian moreno",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.12.0",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.1.3",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
